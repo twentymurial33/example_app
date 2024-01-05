@@ -1,0 +1,6 @@
+.projects-grid {
+  display: flex;
+  margin-top: auto;
+  background: black;
+  height: 0px; /* fallback for old browsers */
+}
